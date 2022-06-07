@@ -4,6 +4,12 @@
 
 [Choppies Analysis](Choppies.html)
 
+## Choppies Map
+
+<img src="choppies_map1.png" width="200"/>
+
+[Choppies Map](Choppies.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
