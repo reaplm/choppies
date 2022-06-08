@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: Choppies
-- file: choppies_on_the_map
-- file: choppies-vs-competition
+- file: Choppies Summary
+- file: Choppies in Botswana
+- file: Choppies vs Competition
