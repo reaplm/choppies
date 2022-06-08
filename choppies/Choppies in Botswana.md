@@ -205,3 +205,4 @@ shadow_mark()
 animate(map_with_animation, nframes = num_years, fps = 1)
 anim_save('choppies_growth.gif')
 ```
+![gif](choppies_growth.gif)
