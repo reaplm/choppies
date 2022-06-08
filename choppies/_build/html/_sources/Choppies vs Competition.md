@@ -384,3 +384,4 @@ animate(map_with_animation, nframes = num_years, fps = 1)
 anim_save("stores_registered.gif")
 
 ```
+![gif](registered_stores.gif)
