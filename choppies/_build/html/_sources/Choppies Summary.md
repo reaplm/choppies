@@ -1,4 +1,4 @@
-# The growth of choppies stores
+## Choppies Stores Summary
 
 The growth of Choppies supermarket from 1999 to 2021
 
